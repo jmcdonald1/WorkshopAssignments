@@ -59,4 +59,3 @@ William Brown | user56 | openshift
 maninder johar | user57 | openshift
 Pamela Dahlhauser | user58 | openshift
 Alex Valley | user59 | openshift
-Roland |
