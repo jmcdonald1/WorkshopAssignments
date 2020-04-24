@@ -5,7 +5,7 @@ Amanie Roberts | user2 | openshift
 Anissa Belalia | user3 | openshift
 Annette Marin | user4 | openshift
 Aqua | user5 | openshift
-Asim M | user6 | openshift
+Roland | user6 | openshift
 Benjamin Peden | user7 | openshift
 Brian Henry | user8 | openshift
 Candi Holliday | user9 | openshift
@@ -58,3 +58,5 @@ Wendy Rusho | user55 | openshift
 William Brown | user56 | openshift
 maninder johar | user57 | openshift
 Pamela Dahlhauser | user58 | openshift
+Alex Valley | user59 | openshift
+Roland |
