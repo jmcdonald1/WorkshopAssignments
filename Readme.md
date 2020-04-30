@@ -24,7 +24,7 @@ Sandeep | student1	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 Steven Gomez | student2	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 Wally R | student3	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 Zack | student4	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
-unassigned | student5	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
+Lucian Rusu | student5	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 unassigned | student6	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 unassigned | student7	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
 unassigned | student8	| bravo.ws2	| http://bravo.ws2-lab-emergent360.com
