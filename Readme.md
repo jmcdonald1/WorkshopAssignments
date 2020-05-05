@@ -1,7 +1,5 @@
 Student Name | Student Number | Student Group | Group Website
 ------------ | ---------------| ---------- | ------------
-Ashok | student1	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
-
 Crystal	| student1	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
 Larry Mason	| student2	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 Manny Castillo | student3	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
