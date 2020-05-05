@@ -14,11 +14,11 @@ William Barnes	| student11	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
 John Bonbright | student12	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
 Paul Kohler	| student13	| alfa.ws1	| http://alfa.ws1-lab-emergent360.com
 Connie	| student14 |	alfa.ws1	| http://alfa.ws1-lab-emergent360.com
+Kyle Hensly | student19	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student15	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student16	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student17	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student18	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
-Kyle Hensly | student19	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student20	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student1	| bravo.ws2 | http://bravo.ws2-lab-emergent360.com
 	| student2	| bravo.ws2 | http://bravo.ws2-lab-emergent360.com
