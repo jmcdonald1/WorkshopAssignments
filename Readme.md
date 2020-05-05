@@ -17,7 +17,7 @@ Connie	| student14 |	alfa.ws1	| http://alfa.ws1-lab-emergent360.com
 Jason McDonald | student15	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 Lester Mitchell	| student16	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 Kyle Hensly | student19	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
-	| student17	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
+Lester Mitchell 2	| student17	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student18	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student20	| alfa.ws1 | http://alfa.ws1-lab-emergent360.com
 	| student1	| bravo.ws2 | http://bravo.ws2-lab-emergent360.com
