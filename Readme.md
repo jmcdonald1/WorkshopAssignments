@@ -15,4 +15,5 @@ Raj Oza | student12 | http://frb.lab-emergent360.com/
 Richu Wu | student13 | http://frb.lab-emergent360.com/
 Sean T. | student14 | http://frb.lab-emergent360.com/
 2155196518 | student15 | http://frb.lab-emergent360.com/
-Kyle Hensley | student1 | http://alfa.ws1-lab-emergent360.com/
+Mike Whitzer | student1 | http://alfa.ws1-lab-emergent360.com/
+Kyle Hensley | student10 | http://alfa.ws1-lab-emergent360.com/
