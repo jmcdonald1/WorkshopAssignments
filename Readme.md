@@ -17,7 +17,7 @@ James Ivan Miner | user14 | https://dia.lab-emergent360.com | http://lab-emergen
 3045181403 | user15 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 2025384509 | user16 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 7023994248 | user17 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-unassigned | user18 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Jared Ennis | user18 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 unassigned | user19 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 unassigned | user20 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 unassigned | user21 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
