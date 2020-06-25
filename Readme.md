@@ -13,7 +13,7 @@ Samson | user10 | https://dia.lab-emergent360.com | http://lab-emergent360.com/w
 Tony T | user11 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Vance Middleton | user12 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Yemi Adelekan | user13 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-James Ivan Miner | user14 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+James Ivan Miner | user34 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 3045181403 | user15 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 2025384509 | user16 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 7023994248 | user17 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
