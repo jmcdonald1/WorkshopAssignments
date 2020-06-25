@@ -19,7 +19,7 @@ James Ivan Miner | user14 | https://dia.lab-emergent360.com | http://lab-emergen
 7023994248 | user17 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Jared Ennis | user18 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Mike | user19 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-unassigned | user20 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Krishna Revoori | user20 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 unassigned | user21 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 unassigned | user22 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Kyle Hensley | user23 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
