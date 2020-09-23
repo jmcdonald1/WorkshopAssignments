@@ -1,28 +1,22 @@
 Student Name | User | Website | Lab Instructions
 ------------ | ---------------| ---------- | -------------
-Bill Swiecicki | user1 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Chris | user2 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-David Martin | user3 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Jeffrey Lind | user4 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Miguel | user5 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Nate | user6 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Paul | user7 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Randy K | user8 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Ron Sloan | user9 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Samson | user10 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Tony T | user11 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Vance Middleton | user12 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Yemi Adelekan | user13 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-James Ivan Miner | user34 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-3045181403 | user15 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-2025384509 | user16 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-7023994248 | user17 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Jared Ennis | user18 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Mike | user19 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Krishna Revoori | user20 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-ani dutta | user21 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-unassigned | user22 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Kyle Hensley | user23 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Brian Salisbury  | user24 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Jason McDonald | user25 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
-Heather Mullis | user26 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Algirdas Grybas | user1 |http://labs-emergent360.com/workshops/openshift_4_101/ |https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Amir Samary  | user2 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Anu Saheba | user3 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Andrew ABou-rjaily | user4 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Farid Guliyev | user5 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Leandro Lopez | user6 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Matthew Carson | user7 |http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Roman Cuevas | user8 |http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Shailesh Govani | user9 |http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Simon | user10 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Steve Lawrence | user11 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Frank Huang | user12 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Jose Goncalves | user13 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Patrick I | user14 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Steve Huston| user15 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Triet | user16 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Brian Salisbury  | user17 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Jason McDonald | user18 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+Heather Mullis | user19 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
+David Pullman | user20 | http://labs-emergent360.com/workshops/openshift_4_101/ | https://console-openshift-console.apps.openshift4.lab-emergent360.com/#
