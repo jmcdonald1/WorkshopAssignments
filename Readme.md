@@ -1,6 +1,6 @@
 Student Name | User | Website | Lab Instructions
 ------------ | ---------------| ---------- | -------------
-Bill Swiecicki | user1 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
+Bill Swiecicki | user1 | https://dia.lab-emergent360.com | http://test.com
 Chris | user2 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 David Martin | user3 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
 Jeffrey Lind | user4 | https://dia.lab-emergent360.com | http://lab-emergent360.com/workshops/
